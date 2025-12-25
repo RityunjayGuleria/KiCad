@@ -1,7 +1,7 @@
 # KiCad Projects Portfolio
 
 This repository contains my electronics projects designed using **KiCad**.  
-Each project includes schematic/PCB designs exported as PNG images.
+Each project includes schematic/PCB designs exported as **SVG images**.
 
 I am a **first year engineering student**, and these projects reflect my learning in
 basic electronics, circuit design, and PCB layout.
@@ -12,7 +12,7 @@ basic electronics, circuit design, and PCB layout.
 A simple LED blinking circuit designed using the **NE555 timer IC**.  
 This project helped me understand timing circuits and basic PCB design.
 
-![LED Blinking Circuit](images/ew1.png)
+![LED Blinking Circuit](ew1.svg)
 
 ---
 
@@ -20,7 +20,7 @@ This project helped me understand timing circuits and basic PCB design.
 A half-wave rectifier circuit designed to convert AC input into pulsating DC output.  
 This project demonstrates the working of diodes in rectification.
 
-![Half Wave Rectifier](images/ew2.png)
+![Half Wave Rectifier](ew2.svg)
 
 ---
 
@@ -28,7 +28,7 @@ This project demonstrates the working of diodes in rectification.
 An AC to DC conversion circuit using rectification and filtering techniques.  
 This project focuses on power supply fundamentals.
 
-![AC to DC Converter](images/ew3.png)
+![AC to DC Converter](ew3.svg)
 
 ---
 
@@ -36,7 +36,7 @@ This project focuses on power supply fundamentals.
 A DC motor speed controller circuit that allows speed variation using control elements.  
 This project introduces motor control concepts.
 
-![DC Motor Speed Controller](images/ew4.png)
+![DC Motor Speed Controller](ew4.svg)
 
 ---
 
@@ -44,7 +44,7 @@ This project introduces motor control concepts.
 A USB to UART converter schematic designed for serial communication between devices.  
 This project helped me understand communication interfaces.
 
-![USB to UART Converter](images/ew5.png)
+![USB to UART Converter](ew5.svg)
 
 ---
 
@@ -52,7 +52,7 @@ This project helped me understand communication interfaces.
 A DC-DC boost converter circuit designed to step up a lower DC voltage to a higher level.  
 This project focuses on power electronics and voltage regulation.
 
-![DC-DC Boost Converter](images/ew6.png)
+![DC-DC Boost Converter](ew6.svg)
 
 ---
 
@@ -60,7 +60,7 @@ This project focuses on power electronics and voltage regulation.
 An audio amplifier circuit designed to amplify low-level audio signals.  
 This project introduces basic analog electronics and amplification concepts.
 
-![Audio Amplifier Circuit](images/ew7.png)
+![Audio Amplifier Circuit](ew7.svg)
 
 ---
 
